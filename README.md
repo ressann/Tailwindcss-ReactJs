@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##* Note :
+- Design for pc.
+- Basic style tailwindcss.
+- Have node install on your pc.
+
 ## Available Scripts
 
 In the project directory, you can run:
